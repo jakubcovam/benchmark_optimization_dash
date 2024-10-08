@@ -1,4 +1,4 @@
-[In development, last update 8. 10. 2024]
+[Under development, last update 8. 10. 2024]
 
 ---
 
