@@ -20,7 +20,7 @@
  - Sphere
  - Weierstrass
 
-## Number of iterations
+### Number of iterations:
   - default: 50
 
 ---
