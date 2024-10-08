@@ -1,3 +1,7 @@
+[In development, last update 8. 10. 2024]
+
+---
+
 ![optim_dash](https://github.com/user-attachments/assets/63dcd967-c052-4049-868c-43f02b459612)
 
 ---
@@ -21,3 +25,5 @@
 
 ---
 Shows the optimization process, convergence plot and founded minimum.
+
+---
