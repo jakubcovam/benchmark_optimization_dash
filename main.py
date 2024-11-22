@@ -63,7 +63,7 @@ app.layout = html.Div([
     # Footer Div
     html.Div(
         children=[
-            html.P("Created by Michala Jakubcová")  # Replace 'Your Name' with your actual name
+            html.P("Created by Michala Jakubcová") 
         ],
         style={
             'textAlign': 'center',
